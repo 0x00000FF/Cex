@@ -1,0 +1,3 @@
+BUILDER=iverilog
+OUTPUT=cex
+OPTIONS=-o $(OUTPUT)
